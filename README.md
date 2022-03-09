@@ -1,2 +1,1 @@
-# hello-world
-started now practicing with git hub
+first update in readme file
